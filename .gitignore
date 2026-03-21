@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+*.err
+*.out
+*.log
+*.tmp
+*.swp
+.DS_Store

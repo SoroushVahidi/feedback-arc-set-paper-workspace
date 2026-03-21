@@ -1,0 +1,10 @@
+family_id,size,best_member,best_forward_w,best_forward_ratio,members
+6,8,connectome_hybrid_ranking-12cpu,35463823.0,0.8461467764197491,35435948_ranking-12cpu;35435948_ranking-24cpu;35452425_ranking-12cpu;35452425_ranking-24cpu;35452425_ranking-48cpu;connectome_hybrid_ranking-12cpu;connectome_hybrid_ranking-24cpu;connectome_hybrid_ranking-48cpu
+3,1,bader,35459266.0,0.8460380489748782,bader
+9,1,35452425,35452425.0,0.8458748265806798,35452425
+0,1,35435948,35435948.0,0.8454816946717182,35435948
+5,1,connectome_paper_fas_ranking,34660410.0,0.8269777962428596,connectome_paper_fas_ranking
+1,1,connectome_paper_fas_ranking_20260202_123552,33799077.0,0.80642687759616,connectome_paper_fas_ranking_20260202_123552
+2,1,connectome_dimacs_hybrid_ranking_learning-48cpu,32275253.0,0.7700692980585268,connectome_dimacs_hybrid_ranking_learning-48cpu
+4,1,connectome_adaptive_out_over_inplus1_learning_ranking,31535251.0,0.7524132685085212,connectome_adaptive_out_over_inplus1_learning_ranking
+15,2,connectome_dimacs_scc_init,21280355.0,0.5077372449190797,connectome_dimacs_scc_init;connectome_dimacs_scc_init_learning
